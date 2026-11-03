@@ -1,0 +1,1 @@
+<%response.sendRedirect("/Grading-System/welcome");%>
